@@ -1,6 +1,5 @@
 node_modules
 dist
-/src/lang/*
-!/src/lang/en/
+.gitgnore
 .DS_Store
 .idea
